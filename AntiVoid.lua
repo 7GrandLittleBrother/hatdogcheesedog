@@ -1,0 +1,10 @@
+AntiVoid = Instance.new("Part")
+AntiVoid.Parent = workspace
+AntiVoid.Name = "AntiVoid"
+AntiVoid.CanCollide = true
+AntiVoid.Size = Vector3.new(1700, 0.5, 1600)
+AntiVoid.Anchored = true
+AntiVoid.Transparency = 0.5
+AntiVoid.Material = Enum.Material.Neon
+AntiVoid.Color = Color3.fromRGB(151, 0, 0)
+AntiVoid.Position = Vector3.new(160.5, 25, 247.5)
